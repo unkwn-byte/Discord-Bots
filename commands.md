@@ -18,3 +18,4 @@ version - Shows the version.
 <br>
 invite - Gets an invite link to share.
 <br>
+github - Gets The link for the GitHub.
