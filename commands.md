@@ -11,3 +11,10 @@ clear - Clears a amount of messages. (ex. $clear 5)
 cmds - Shows the list of commands.
 <br>
 ping - Pings the bot.
+<br>
+code - Shows the bots open source code.
+<br>
+version - Shows the version.
+<br>
+invite - Gets an invite link to share.
+<br>
