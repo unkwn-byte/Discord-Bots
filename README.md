@@ -1,2 +1,0 @@
-# MessageLogger
-Just Logs messages.
