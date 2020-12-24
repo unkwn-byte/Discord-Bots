@@ -54,5 +54,24 @@ async def cmds(ctx):
 @commands.has_permissions(administrator=True)
 async def clear(ctx, amount=5):
         await ctx.channel.purge(limit=amount)
+#code Command
+@client.command()
+async def code(ctx):
+    ctx.send('https://github.com/unkwn-byte/Discord-Bots/blob/main/TreeBot.py')
 
+@client.command()
+async def version(ctx):
+  
+  await ctx.send('Version: 1.02')
+
+@client.command()
+async def invite(ctx):
+  
+  await ctx.send('Heres your invite: https://discord.gg/w9sXTJXyz2')
+  
+@client.command()
+async def github(ctx):
+  
+  await ctx.send('The GitHub is located here: https://github.com/unkwn-byte/Discord-Bots')
+  
 client.run('TOKEN GOES HERE')
