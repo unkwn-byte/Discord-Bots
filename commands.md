@@ -1,5 +1,6 @@
 # Commands
 All commands have the prefix $.
+<br>
 kick - Kicks mentioned user.
 <br>
 ban - Bans a user. You cant mention them. (NOT: $unban @example) (ex. $unban example#1234)
