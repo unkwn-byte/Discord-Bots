@@ -9,7 +9,7 @@ unban - Unbans a user. You cant mention them. (NOT: $unban @example) (ex. $unban
 <br>
 purge - Clears a amount of messages. (ex. $purge 5)
 <br>
-cmds - Shows the list of commands.
+help - Its just a help command.
 <br>
 ping - Pings the bot.
 <br>
@@ -25,4 +25,6 @@ github - Gets The link for the GitHub.
 coinflip - Just flips a coin. Thats it.
 <br>
 phrase - Says a random phrase.
+<br>
+diceroll - Picks a random number between 1 and 6.
 <br>
