@@ -3,9 +3,10 @@ All commands have the prefix $.
 <br>
 kick - Kicks mentioned user.
 <br>
-ban - Bans a user. You cant mention them. (NOT: $unban @example) (ex. $unban example#1234)
+ban - Bans a user. Bans mentioned user.
 <br>
-unban - Unbans mentione.
+unban - Unbans a user. You cant mention them. (NOT: $unban @example) (ex. $unban example#1234)
+<br>
 clear - Clears a amount of messages. (ex. $clear 5)
 <br>
 cmds - Shows the list of commands.
