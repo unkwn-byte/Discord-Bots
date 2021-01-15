@@ -7,7 +7,7 @@ ban - Bans a user. Bans mentioned user.
 <br>
 unban - Unbans a user. You cant mention them. (NOT: $unban @example) (ex. $unban example#1234)
 <br>
-clear - Clears a amount of messages. (ex. $clear 5)
+purge - Clears a amount of messages. (ex. $purge 5)
 <br>
 cmds - Shows the list of commands.
 <br>
@@ -20,3 +20,9 @@ version - Shows the version.
 invite - Gets an invite link to share.
 <br>
 github - Gets The link for the GitHub.
+
+# Fun Things
+coinflip - Just flips a coin. Thats it.
+<br>
+phrase - Says a random phrase.
+<br>
