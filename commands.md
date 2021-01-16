@@ -28,3 +28,4 @@ phrase - Says a random phrase.
 <br>
 diceroll - Picks a random number between 1 and 6.
 <br>
+anynumber - Picks any number from 1 to 9999999999
