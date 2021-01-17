@@ -24,7 +24,7 @@ github - Gets The link for the GitHub.
 # Fun Things
 coinflip - Just flips a coin. Thats it.
 <br>
-phrase - Says a random phrase.
+quote - Says a random quote.
 <br>
 diceroll - Picks a random number between 1 and 6.
 <br>
