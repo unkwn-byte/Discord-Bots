@@ -20,7 +20,8 @@ version - Shows the version.
 invite - Gets an invite link to share.
 <br>
 github - Gets The link for the GitHub.
-
+<br>
+announce - Announces a message. (ex. $announce #example {msg})
 # Fun Things
 coinflip - Just flips a coin. Thats it.
 <br>
