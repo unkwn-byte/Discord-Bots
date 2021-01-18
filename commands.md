@@ -21,7 +21,7 @@ invite - Gets an invite link to share.
 <br>
 github - Gets The link for the GitHub.
 <br>
-announce - Announces a message. (ex. $announce #example {msg})
+announce - Announces a message. (ex. $announce #example {msg}) ==WARNING: This announces @here
 # Fun Things
 coinflip - Just flips a coin. Thats it.
 <br>
